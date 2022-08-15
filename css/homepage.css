@@ -27,7 +27,7 @@ body{
 i{
     margin: 24px 12px;
 }
-.topbarleft span{
+.topbar a{
     color: #fff;
 }
 :root{
@@ -44,7 +44,6 @@ i{
     display: none;
     position: fixed;
     width: 100%;
-    /* display: block; */
     transition: top 0.3s;
     z-index: 99;
     padding-top: 5px;
@@ -510,7 +509,7 @@ i{
     font-size: 20px;
 }
 .item-content i{
-    margin: 0 15px 0px 22px;
+    margin: 0 8px 0px 10px;
 }
 .item-title1 h3{
     font-size: 20px;
